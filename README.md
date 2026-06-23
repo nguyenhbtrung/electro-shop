@@ -1,6 +1,6 @@
-# ElectroShop
+# ElectroShop (GTG Shop)
 
-> Central landing repository for the ElectroShop - E-commerce Platform built with .NET 8, React, and Jetpack Compose (Android).
+> Central landing repository for the ElectroShop (GTG Shop) - E-commerce Platform built with .NET 8, React, and Jetpack Compose (Android).
 This repository aggregates documentation and links to all project source code repositories.
 
 > 
